@@ -1,7 +1,7 @@
 Wrapper
 ==
 
-Tired of `Ok(())` or `Ok(match{})` or equivalent for Result. Try this trait.
+Tired of `Some(if {} else {})` or `Some(match{})` or equivalent for Result. Try this trait.
 
 ## Exemple
 ```rust

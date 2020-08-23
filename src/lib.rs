@@ -42,7 +42,6 @@ impl<T> Wrap<Option<T>> for T {
     }
 }
 
-
 #[cfg(test)]
 mod tests {
     use crate::Wrap;
